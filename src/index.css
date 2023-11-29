@@ -1,8 +1,8 @@
 /* root configuration */
-:root #root{
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-  sans-serif;
+:root #root {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -14,9 +14,19 @@
 }
 
 .solid-bg {
-  background-color: #d027a9; /* Replace #000 with the color you want */
+  background-color: rgb(
+    202,
+    168,
+    54
+  ); /* Replace #000 with the color you want */
 }
 
+.title {
+  color: rgb(226, 186, 55);
+}
+.text {
+  color: rgb(221, 208, 218);
+}
 .up-button {
   position: fixed;
   bottom: 20px;
@@ -39,4 +49,6 @@
 .up-button.show {
   opacity: 1;
 }
-
+#no_decoration {
+  text-decoration: none;
+}

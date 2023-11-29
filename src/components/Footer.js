@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='text-center'>copyright LD @2020</div>
+    <div className='text-center'>&copy; Linkits Digital @2020</div>
   )
 }
 

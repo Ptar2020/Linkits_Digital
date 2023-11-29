@@ -1,4 +1,4 @@
-# Linkits Digital - IT Company Portfolio
+# Linkits Digital - IT Company 
 
 Welcome to the official portfolio website of Linkits Digital, your trusted partner in IT solutions and digital innovation.
 
