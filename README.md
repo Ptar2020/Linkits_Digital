@@ -24,7 +24,7 @@ Unlock the full potential of your online presence with our strategic digital sol
 
 Explore our showcase of successful projects that highlight our skills and expertise. Each project is a testament to our commitment to delivering high-quality solutions that drive business success.
 
-- [Project 1: Example Project](#) - A school library management system.
+- [Library System](https://www.linkitslibrary.com) - A school library management system.
 
 
 
@@ -32,19 +32,17 @@ Explore our showcase of successful projects that highlight our skills and expert
 
 Ready to embark on your next digital journey? Contact us today to discuss your project requirements and discover how Linkits Digital can help you achieve your goals.
 
-- **Email:** info@linkitsdigital.com
-- **Phone:** +1 (123) 456-7890
+- **Email:** linkitslibrary@gmail.com
+- **Phone:** +254725109389/ +254702791043
 
 ## Connect With Us
 
 Stay updated on our latest projects, news, and industry insights.
 
-- [LinkedIn](#)
-- [Twitter](#)
-- [Facebook](#)
+- [Twitter](https://www.twitter.com/Ptar2020)
 
 Thank you for considering Linkits Digital as your IT partner. We look forward to collaborating with you!
 
 ---
 
-**Linkits Digital - Empowering Digital Transformations**
+**Linkits Digital - Building Cutting Edge Technology**

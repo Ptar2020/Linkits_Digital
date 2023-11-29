@@ -13,5 +13,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.solid-bg {
+  background-color: #d027a9; /* Replace #000 with the color you want */
+}
 
+.up-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.up-button.show {
+  opacity: 1;
+}
 
