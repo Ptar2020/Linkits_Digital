@@ -1,11 +1,24 @@
 import React, { useState, useEffect } from "react";
-
+const axios = 21
 function Services() {
   const [data, setData] = useState([]);
   // const data = [{ id: 1, title:"My Title",sub_title:"Sub Title",description:"Description"},]
 
+  async function getServices() {
+    await axios
+      .get("http://127.0.0.1:8080/services")
+      .then((response) => {
+        if (response.data.msg) {
+          console.log(response.data.msg);
+        } else {
+          setData(response.data);
+        }
+      })
+      .catch((error) => console.log(error.message));
+  }
+
   useEffect(() => {
-    //populative function
+    getServices();
   }, []);
 
   return (
