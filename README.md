@@ -1,32 +1,34 @@
-# Linkits Digital - IT Company 
+# Linkits Digital - IT Company
 
 Welcome to the official portfolio website of Linkits Digital, your trusted partner in IT solutions and digital innovation.
 
 ## About Us
 
-Linkits Digital is a forward-thinking IT company dedicated to providing cutting-edge solutions in software development, web design, and digital strategy. With a focus on innovation and quality, we strive to exceed client expectations and deliver transformative results.
+Linkits Digital is a forward-thinking IT company dedicated to providing cutting-edge solutions in web development, software development, graphic design, and IT Consultancy. With a focus on innovation and quality, we strive to exceed clients expectations and deliver transformative results.
 
 ## Services
 
-### 1. Software Development
+### 1. Web Development.
+
+With our over 3 years experience in web development, Linkits Digital stands out as a company that is dedicated, and capable to offer respponsive, secure, user friendly websites for both individuals and companies.
+
+### 2. Software Development
 
 Our experienced team of developers creates custom software solutions tailored to meet your business needs. From enterprise applications to mobile apps, we have the expertise to bring your ideas to life.
 
-### 2. Web Design
+### 3. Graphic Design
 
-Crafting visually stunning and user-friendly websites is our forte. We specialize in creating responsive, modern, and engaging web experiences that leave a lasting impression on your audience.
+Crafting visually stunning and user-friendly designs is our forte. We specialize in creating responsive, modern, and engaging web experiences, company logos, posters, bronchures, and flyers that leave a lasting impression on our clients.
 
-### 3. Digital Strategy
+### 4. ICT Consulting
 
-Unlock the full potential of your online presence with our strategic digital solutions. From SEO optimization to social media management, we help businesses establish a strong and effective digital footprint.
+Get all your computer and mobile phone hardware and software issues professionally checked, and sorted with ease and precision for better performance and longevity.
 
 ## Portfolio
 
 Explore our showcase of successful projects that highlight our skills and expertise. Each project is a testament to our commitment to delivering high-quality solutions that drive business success.
 
 - [Library System](https://www.linkitslibrary.com) - A school library management system.
-
-
 
 ## Contact Us
 
