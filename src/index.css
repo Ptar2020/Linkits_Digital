@@ -3,10 +3,9 @@
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
-  line-height: 2.0;
+  line-height: 2;
   font-weight: 400;
   font-size: larger;
-
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
@@ -76,10 +75,10 @@
     flex: 0 0 90%; /* One photo per line on smaller screens */
   }
   .footer {
-    font-size: medium;
+    font-size: small;
   }
   :root #root {
-    font-size:medium;
+    font-size: large;
     line-height: normal;
   }
 }
