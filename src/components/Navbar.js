@@ -172,7 +172,6 @@ const Navbar = () => {
               marginLeft: "20px", // Adjusted margin for medium and larger screens
             },
           }}
-          // style={{ marginLeft: "60px" }}
         >
           LINKITS DIGITAL
         </Link>
