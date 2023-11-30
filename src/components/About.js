@@ -23,7 +23,7 @@ function About() {
   }, []);
 
   return (
-    <div className="about-container ">
+    <div className="">
       {data.length > 0 ? (
         <>
           {data.map((chunk) => {
@@ -47,7 +47,7 @@ function About() {
           </h1>
           <hr />
 
-          <div className="about-content text">
+          <div className="about-content text ">
             <p>
               Welcome to Linkits Digital, your dedicated partner in the
               ever-evolving landscape of technology. We are an innovative IT
@@ -59,14 +59,19 @@ function About() {
               At Linkits Digital, we don't just provide services; we craft
               solutions tailored to your unique needs. Our mission is to be the
               forefront leader in delivering client-centric excellence across
-              various domains.
+              various domains. In addition to our internet-related services, we
+              take pride in extending our expertise to encompass comprehensive
+              IT solutions, including top-notch repairs and maintenance for
+              computers and mobile phones.
             </p>
-
             <p>
               Linkits Digital is not just an IT company; we are your strategic
               partner in navigating the dynamic digital landscape. Our team is
               driven by a passion for innovation, a commitment to quality, and a
               focus on delivering results that propel your business forward.
+              Whether it's optimizing your online presence or ensuring the
+              seamless functionality of your devices, Linkits Digital is here to
+              provide holistic IT solutions for your every need.
             </p>
           </div>
         </>

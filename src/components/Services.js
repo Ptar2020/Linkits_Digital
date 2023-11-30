@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-const axios = 21
+const axios = 21;
 function Services() {
   const [data, setData] = useState([]);
   // const data = [{ id: 1, title:"My Title",sub_title:"Sub Title",description:"Description"},]
@@ -51,66 +51,53 @@ function Services() {
             </p>
             <div>
               <div>
-                <h2>Web Design</h2>
+                <h2>Web Development</h2>
                 <p>
-                  Create visually stunning and user-centric websites that leave
-                  a lasting impression. Our web design solutions focus on
-                  aesthetics, functionality, and seamless user experiences.
-                </p>
-              </div>
-              <div>
-                <h2>Logo Design</h2>
-                <p>
-                  Build a strong brand identity with a distinctive and memorable
-                  logo. Our design experts collaborate with you to capture the
-                  essence of your business and convey it through a compelling
-                  visual symbol.
-                </p>
-              </div>
-              <div>
-                <h2>Website Development</h2>
-                <p>
-                  Bring your online vision to life with our custom website
-                  development services. We specialize in creating responsive,
-                  scalable, and feature-rich websites tailored to your business
-                  needs.
+                  With a legacy of excellence spanning over three years, Linkits
+                  Digital takes pride in being your dedicated partner for web
+                  development. Our commitment is reflected in the creation of
+                  responsive, secure, and user-friendly websites that cater to
+                  both individuals and companies. Elevate your online presence
+                  with our expert team, ensuring your digital footprint leaves a
+                  lasting impression.
                 </p>
               </div>
               <div>
                 <h2>Software Development</h2>
                 <p>
-                  Transform your ideas into powerful software solutions. From
-                  custom business applications to innovative mobile apps, our
-                  software development team ensures cutting-edge solutions that
-                  drive your business forward.
+                  Embark on a transformative journey with Linkits Digital's
+                  seasoned team of developers. We specialize in crafting custom
+                  software solutions designed to seamlessly align with your
+                  unique business requirements. From innovative enterprise
+                  applications to cutting-edge mobile apps, our expertise is the
+                  key to bringing your visionary ideas to life, empowering your
+                  business for the future.
                 </p>
               </div>
               <div>
-                <h2>IT Consulting</h2>
+                <h2>Graphic Design</h2>
                 <p>
-                  Gain strategic insights and guidance with our IT consulting
-                  services. We analyze your IT infrastructure, identify
-                  opportunities for improvement, and provide tailored
-                  recommendations to optimize your technology investments.
+                  At Linkits Digital, we don't just design; we create
+                  experiences that captivate and resonate. Our forte lies in
+                  crafting visually stunning and user-friendly designs that
+                  transcend the ordinary. From responsive and modern web
+                  experiences to iconic company logos, compelling posters,
+                  brochures, and flyers, we leave an indelible mark that sets
+                  you apart in the competitive landscape. Elevate your brand
+                  aesthetic with our design prowess.
                 </p>
               </div>
               <div>
-                <h2>Network Security</h2>
+                <h2>ICT Consultancy</h2>
                 <p>
-                  Safeguard your digital assets with our robust network security
-                  solutions. From firewalls to intrusion detection systems, we
-                  implement comprehensive measures to protect your business from
-                  cyber threats.
-                </p>
-              </div>
-
-              <div>
-                <h2>Cloud Computing</h2>
-                <p>
-                  Unlock the full potential of cloud computing with our tailored
-                  solutions. Enjoy the benefits of scalability, flexibility, and
-                  data accessibility, as we help you migrate and manage your
-                  applications in the cloud.
+                  Experience seamless computing with Linkits Digital's
+                  comprehensive ICT consulting services. Entrust us with your
+                  computer and mobile phone hardware and software challenges,
+                  and witness professional solutions delivered with precision.
+                  Our experts ensure thorough checks and efficient resolutions,
+                  enhancing the performance and longevity of your technology
+                  investments. Trust Linkits Digital for a smoother, more
+                  reliable digital experience.
                 </p>
               </div>
             </div>
