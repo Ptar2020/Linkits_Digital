@@ -35,7 +35,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <nav className={navbarClass}>
+      <nav className={"navbar navbar-expand-lg navbar-grey fixed-top solid-bg"}>
         <Link
           onClick={() => {
             goTop();
@@ -87,6 +87,23 @@ const Navbar = () => {
                 <Typography variant="small" component="div">
                   <Link className="link text-white" id="no_decoration">
                     Services
+                  </Link>
+                </Typography>
+              </ScrollLink>
+            </li>
+            <li>
+              {" "}
+              <ScrollLink
+                onClick={() => setDocTitle("Photos")}
+                to="photos"
+                smooth={true}
+                duration={300}
+                offset={-30}
+                className="nav-link"
+              >
+                <Typography variant="small" component="div">
+                  <Link className="link text-white" id="no_decoration">
+                    Samples
                   </Link>
                 </Typography>
               </ScrollLink>

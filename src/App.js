@@ -3,6 +3,7 @@ import Navbar from "../src/components/Navbar";
 import About from "../src/components/About";
 import Services from "../src/components/Services";
 import Footer from "../src/components/Footer";
+import Photos from "../src/components/Photos";
 import { FaArrowUp } from "react-icons/fa";
 
 function App() {
@@ -34,6 +35,7 @@ function App() {
       <Navbar />
       <About />
       <Services />
+      <Photos/>
       <hr />
       <Footer />
       <div className={`up-button ${scrolled ? "show" : ""}`} onClick={goTop}>

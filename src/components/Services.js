@@ -40,7 +40,7 @@ function Services() {
         </>
       ) : (
         <>
-          <h1 id="services" className="text-center  title">
+          <h1 id="services" className="text-center  title   mt-4 pt-4">
             OUR SERVICES
           </h1>
           <hr />

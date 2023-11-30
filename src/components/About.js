@@ -23,13 +23,13 @@ function About() {
   }, []);
 
   return (
-    <div className="about-container">
+    <div className="about-container ">
       {data.length > 0 ? (
         <>
           {data.map((chunk) => {
             return (
               <div key={chunk.id}>
-                <h1 className="text-center mb-4 title" id="about">
+                <h1 className="text-center mt-4 pt-4 mb-4 title" id="about">
                   {chunk.title}
                 </h1>
                 <hr />
@@ -42,7 +42,7 @@ function About() {
         </>
       ) : (
         <>
-          <h1 className="text-center mb-4 title" id="about">
+          <h1 className="text-center mb-4 title mt-4 pt-4" id="about">
             WHO WE ARE
           </h1>
           <hr />
