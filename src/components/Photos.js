@@ -12,9 +12,9 @@ function Photos() {
       </h1>
       <hr />
       <div className="photo-container">
-        <img alt="photo1" src={photo4} className="photo" />
-        <img alt="photo4" src={photo3} className="photo" />
-        <img alt="photo5" src={photo1} className="photo" />
+        <img alt="photo1" src={photo1} className="photo" />
+        <img alt="photo3" src={photo3} className="photo" />
+        <img alt="photo4" src={photo4} className="photo" />
         <img alt="photo2" src={photo2} className="photo" />
       </div>
     </div>
