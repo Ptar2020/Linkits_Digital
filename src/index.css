@@ -79,7 +79,7 @@
   }
   :root #root {
     font-size: large;
-    line-height: normal;
+    line-height: 2;
   }
 }
 
