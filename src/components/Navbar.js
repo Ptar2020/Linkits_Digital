@@ -37,7 +37,7 @@ const Navbar = () => {
   }, []); // Make sure to clean up the event listener on component unmount
 
   return (
-    <div>
+    <div style={{"lineHeight":"1.3"}}>
       <nav
         className={"navbar navbar-expand-lg navbar-light solid-bg fixed-top"}
       >
