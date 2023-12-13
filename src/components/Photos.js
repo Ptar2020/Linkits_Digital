@@ -1,6 +1,6 @@
 import React from "react";
 import photo1 from "../images/photo1.png";
-import photo2 from "../images/high - resolution - transparent.png";
+import photo2 from "../images/high-resolution-transparent.png";
 import photo4 from "../images/logo.gif";
 import photo5 from "../images/mulaha.gif";
 
