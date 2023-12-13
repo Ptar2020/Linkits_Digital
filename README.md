@@ -53,7 +53,10 @@ Experience seamless computing with Linkits Digital's comprehensive ICT consultin
 
 Explore our showcase of successful projects that highlight our skills and expertise. Each project is a testament to our commitment to delivering high-quality solutions that drive business success.
 
-- [Library System](https://www.linkitslibrary.com) - A school library management system.
+- [Linkits Library Records [LLR]](https://www.linkitslibrary.com) - A school library management system.
+<hr/>
+
+- [Young Blogger](https://youngblogger.onrender.com) - A blogging site targeting young and wannabe bloggers
 <hr/>
 
 ## Contact Us

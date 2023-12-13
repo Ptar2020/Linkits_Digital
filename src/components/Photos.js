@@ -1,6 +1,6 @@
 import React from "react";
 import photo1 from "../images/photo1.png";
-
+import photo2 from "../images/high - resolution - transparent.png";
 import photo4 from "../images/logo.gif";
 import photo5 from "../images/mulaha.gif";
 
@@ -15,6 +15,7 @@ function Photos() {
         <img alt="photo1" src={photo1} className="photo" />
         <img alt="photo4" src={photo4} className="photo" />
         <img alt="photo5" src={photo5} className="photo" />
+        <img alt="photo2" src={photo2} className="photo" />
       </div>
     </div>
   );
