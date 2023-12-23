@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 const axios = 21;
 function Services() {
   const [data, setData] = useState([]);
+  // Sample data
   // const data = [{ id: 1, title:"My Title",sub_title:"Sub Title",description:"Description"},]
 
   async function getServices() {
