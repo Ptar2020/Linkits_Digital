@@ -56,7 +56,7 @@ Explore our showcase of successful projects that highlight our skills and expert
 - [Linkits Library Records [LLR]](https://www.linkitslibrary.com) - A school library management system.
 <hr/>
 
-- [Young Blogger](https://youngblogger.onrender.com) - A blogging site targeting young and wannabe bloggers
+- [Young Blogger](https://youngblogger.co.ke) - A blogging site targeting young and wannabe bloggers
 <hr/>
 
 ## Contact Us
