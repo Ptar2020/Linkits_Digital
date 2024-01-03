@@ -1,6 +1,8 @@
 {
   "short_name": "LD",
   "name": "Linkits Digital",
+  "description": "Welcome to Linkits Digital, your dedicated partner in the ever-evolving landscape of technology. We are company specializing in a spectrum of internet-related services, committed to shaping digital experiences that transcend expectations",
+
   "icons": [
     {
       "src": "logo192.png",
